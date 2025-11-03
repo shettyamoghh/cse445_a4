@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
   <Hotel Rating="4.5">
-    <Name>Westin Downtown</Name>
     <Phone>206-123-4567</Phone>
     <Phone>206-987-6543</Phone>
+    <Name>Westin Downtown</Name>
     <Address>
      <Number>1900</Number>
      <Street>5th Ave</Street>
@@ -15,8 +15,8 @@
   </Hotel>
 
   <Hotel Rating="4.2">
-   <Name>Hilton Garden</Name>
    <Phone>4251112222</Phone>
+   <Name>Hilton Garden</Name>
    <Address>
      <Number>120</Number>
      <Street>Main St</Street>
@@ -28,8 +28,8 @@
   </Hotel>
 
   <Hotel Rating="3.9">
-    <Name>Holiday Inn Exp</Name>
     <Phone>206-333-4444</Phone>
+    <Name>Holiday Inn Exp</Name>
     <Address>
       <Number>320</Number>
       <Street>1st Ave</Street>
@@ -41,8 +41,8 @@
   </Hotel>
 
   <Hotel Rating="5">
-   <Name>Four Seasons</Name>
    <Phone>206-555-0101</Phone>
+   <Name>Four Seasons</Name>
    <Address>
      <Number>99</Number>
      <Street>Union St</Street>
@@ -54,8 +54,8 @@
   </Hotel>
 
   <Hotel Rating="4.8">
-   <Name>Marriott Wtrfront</Name>
    <Phone>206-555-0202</Phone>
+   <Name>Marriott Wtrfront</Name>
    <Address>
      <Number>2100</Number>
      <Street>Alaskan Way</Street>
@@ -67,8 +67,8 @@
   </Hotel>
 
   <Hotel Rating="4.1">
-     <Name>Courtyard Pioneer</Name>
      <Phone>2065550303</Phone>
+     <Name>Courtyard Pioneer</Name>
      <Address>
       <Number>612</Number>
       <Street>2nd Ave</Street>
@@ -80,8 +80,8 @@
   </Hotel>
 
   <Hotel Rating="3.5">
-    <Name>Comfort Suites</Name>
     <Phone>253-555-0404</Phone>
+    <Name>Comfort Suites</Name>
     <Address>
      <Number>345</Number>
      <Street>Pacific Ave</Street>
@@ -93,8 +93,8 @@
   </Hotel>
 
   <Hotel Rating="4.7">
-   <Name>Hotel Theodore</Name>
    <Phone>206-555-0505</Phone>
+   <Name>Hotel Theodore</Name>
    <Address>
      <Number>1531</Number>
      <Street>7th Ave</Street>
@@ -106,8 +106,8 @@
   </Hotel>
 
   <Hotel Rating="4.3">
-   <Name>Hotel Sorrento</Name>
    <Phone>206-555-0606</Phone>
+   <Name>Hotel Sorrento</Name>
    <Address>
      <Number>900</Number>
      <Street>Madison St</Street>
@@ -119,8 +119,8 @@
   </Hotel>
 
   <Hotel Rating="3.8">
-   <Name>Best Western</Name>
    <Phone>425-555-0707</Phone>
+   <Name>Best Western</Name>
    <Address>
      <Number>300</Number>
      <Street>112th Ave NE</Street>
