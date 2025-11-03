@@ -30,6 +30,7 @@
 
   <Hotel Rating="4.2">
     <Phone>425-111-2222</Phone>
+    <Phone>425-111-3333</Phone>
     <Name>Hilton Garden</Name>
     <Address>
       <Number>120</Number>
@@ -144,5 +145,4 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
 </Hotels>
