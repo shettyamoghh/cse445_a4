@@ -42,7 +42,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <Hotel>
     <Phone>206-333-4444</Phone>
     <Name>Holiday Inn Exp</Name>
     <Address>
@@ -81,7 +81,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <Hotel>
     <Phone>206-555-0303</Phone>
     <Name>Courtyard Pioneer</Name>
     <Address>
@@ -94,7 +94,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.5">
+  <Hotel>
     <Phone>253-555-0404</Phone>
     <Name>Comfort Suites</Name>
     <Address>
@@ -133,7 +133,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.8">
+  <Hotel>
     <Phone>425-555-0707</Phone>
     <Name>Best Western</Name>
     <Address>
