@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://shettyamoghh.github.io/cse445_a4/Hotels.xsd">
-
   <Hotel Rating="4.2">
+    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Name>Westin</Name>
     <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Habor</NearestAirport>
+      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.5">
+    <Name>Westin Downtown</Name>
     <Phone>206-123-4567</Phone>
     <Phone>206-987-6543</Phone>
-    <Name>Westin Downtown</Name>
     <Address>
       <Number>1900</Number>
       <Street>5th Ave</Street>
@@ -29,11 +27,10 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.2">
+    <Name>Hilton Garden</Name>
     <Phone>425-111-2222</Phone>
     <Phone>425-111-3333</Phone>
-    <Name>Hilton Garden</Name>
     <Address>
       <Number>120</Number>
       <Street>Main St</Street>
@@ -43,10 +40,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="3.9">
-    <Phone>206-333-4444</Phone>
     <Name>Holiday Inn Exp</Name>
+    <Phone>206-333-4444</Phone>
     <Address>
       <Number>320</Number>
       <Street>1st Ave</Street>
@@ -56,10 +52,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="5">
-    <Phone>206-555-0101</Phone>
     <Name>Four Seasons</Name>
+    <Phone>206-555-0101</Phone>
     <Address>
       <Number>99</Number>
       <Street>Union St</Street>
@@ -69,10 +64,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.8">
-    <Phone>206-555-0202</Phone>
     <Name>Marriott Wtrfront</Name>
+    <Phone>206-555-0202</Phone>
     <Address>
       <Number>2100</Number>
       <Street>Alaskan Way</Street>
@@ -82,10 +76,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.1">
-    <Phone>206-555-0303</Phone>
     <Name>Courtyard Pioneer</Name>
+    <Phone>206-555-0303</Phone>
     <Address>
       <Number>612</Number>
       <Street>2nd Ave</Street>
@@ -95,10 +88,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="3.5">
-    <Phone>253-555-0404</Phone>
     <Name>Comfort Suites</Name>
+    <Phone>253-555-0404</Phone>
     <Address>
       <Number>345</Number>
       <Street>Pacific Ave</Street>
@@ -108,10 +100,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.7">
-    <Phone>206-555-0505</Phone>
     <Name>Hotel Theodore</Name>
+    <Phone>206-555-0505</Phone>
     <Address>
       <Number>1531</Number>
       <Street>7th Ave</Street>
@@ -121,10 +112,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.3">
-    <Phone>206-555-0606</Phone>
     <Name>Hotel Sorrento</Name>
+    <Phone>206-555-0606</Phone>
     <Address>
       <Number>900</Number>
       <Street>Madison St</Street>
@@ -134,10 +124,9 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
-  <Hotel Rating="3.8">
-    <Phone>425-555-0707</Phone>
+  <Hotel>
     <Name>Best Western</Name>
+    <Phone>425-555-0707</Phone>
     <Address>
       <Number>300</Number>
       <Street>112th Ave NE</Street>
@@ -147,5 +136,4 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
 </Hotels>
