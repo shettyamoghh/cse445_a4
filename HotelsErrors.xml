@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotelz>
+ <Hotel>
+   <Name>Broken Inn</Name>
+   <Address>
+     <Number>10</Number>
+     <Street>Main St</Street>
+     <City>Seattle</City>
+     <State>WA</State>
+     <Zip>98101</Zip>
+     <NearestAirport>SEA</NearestAirport>
+   </Address>
+ </Hotel>
+
+ <Hotel Rating="4.0">
+   <Name>Tag Missing</Name>
+   <Phone>206-999-9999</Phone>
+   <Address>
+     <Number>100</Number>
+     <Street>Broken Tag</Street>
+     <City>Seattle<City>
+     <State>WA</State>
+     <Zip>98101</Zip>
+     <NearestAirport>SEA</NearestAirport>
+   </Address>
+ </Hotel>
+
+ <Hotel Rating="3.5">
+   <Name>Double Name</Name>
+   <Name>Duplicate Name</Name>
+   <Phone>425-888-8888</Phone>
+   <Address>
+    <Number>99</Number>
+    <Street>5th Ave</Street>
+    <City>Seattle</City>
+    <State>WA</State>
+    <Zip>98104</Zip>
+    <NearestAirport>SEA</NearestAirport>
+   </Address>
+ </Hotel>
+</Hotelz>
