@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://shettyamoghh.github.io/cse445_a4/Hotels.xsd">
+
   <Hotel Rating="4.2">
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -145,4 +147,5 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
+
 </Hotels>
