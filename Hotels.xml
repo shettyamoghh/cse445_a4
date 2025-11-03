@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-
   <Hotel Rating="4.2">
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -31,7 +30,6 @@
 
   <Hotel Rating="4.2">
     <Phone>425-111-2222</Phone>
-    <Phone>425-111-3333</Phone>
     <Name>Hilton Garden</Name>
     <Address>
       <Number>120</Number>
